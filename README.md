@@ -35,11 +35,11 @@
 
 ### 아키텍쳐
 
-![Untitled](README.assets/Untitled 1.png)
+![Untitled](README.assets/Untitled1.png)
 
 ### Wireframe
 
-![Untitled](README.assets/Untitled 2.png)
+![Untitled](README.assets/Untitled2.png)
 
 
 ## 3️⃣ 팀 소개
