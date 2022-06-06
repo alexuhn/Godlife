@@ -48,7 +48,6 @@
 
 | 천민우    | 강수현    | 승나연   | 유혜승   | 이수민    | 이정음   |
 | --------- | --------- | -------- | -------- | --------- | -------- |
-| <img src="/uploads/d6e5a1679fd9834a583619049fe654f0/image.png" width="80%"> | <img src="/uploads/dd93ab77c5e94fcbc6e3187828582db3/image.png" width="80%"> | <img src="/uploads/2463014a4efadacab1839d68ad7d1786/image.png" width="80%"> | <img src="/uploads/b140ec721002e5494b9b04ab21c58a8b/image.png" width="80%"> | <img src="/uploads/d8651733cd14fd1a60718f800cf2cd33/image.png" width="80%"> | <img src="/uploads/7b6fa71b09603b8fc4939612d0bdcd07/image.png" width="80%"> |
 | 💪팀장, 🖼FrontEnd | 🖼FrontEnd | 🛠BackEnd | 🛠BackEnd | 🖼FrontEnd | 🛠BackEnd, ⚙Infra  |
 
 ### 기술 스택
